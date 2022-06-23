@@ -1,0 +1,5 @@
+jobs:
+  - name: test-1
+    entry: test1.sh
+    description: "this is a check"
+  
